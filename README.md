@@ -1,6 +1,6 @@
 # Project Week 35 GBM Series Tagging experiment
 
-GBM series tagging experiment will be conducted within the Cloud & Open Data section at the [35th Project Week]().
+GBM series tagging experiment will be conducted within the Cloud & Open Data section at the [35th Project Week](https://github.com/NA-MIC/ProjectWeek/tree/master/PW35_2021_Virtual).
 
 There is a broad motivation to enrich the OPEN DATA offering in general and IDC data particularly. One of the approaches is to improve the richness of metadata accompanying images in IDC.
 
@@ -10,4 +10,4 @@ The experiment will be conducted on GBM dataset hosted in IDC. Catigorization of
 
 One of the key fetures of the project is that it's cloud native. This means that all resources and data does not leave the cloud datacenter.
 
-See full project description on the [project page in the Project Week repository]()
+See full project description on the [project page in the Project Week repository](https://github.com/NA-MIC/ProjectWeek/tree/master/PW35_2021_Virtual/Projects/NCIImagingDataCommons)
